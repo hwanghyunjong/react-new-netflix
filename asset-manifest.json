@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-netflix-hj/static/css/main.3f4f2800.css",
-    "main.js": "/react-netflix-hj/static/js/main.7181f696.js",
-    "static/js/787.d7112c23.chunk.js": "/react-netflix-hj/static/js/787.d7112c23.chunk.js",
-    "static/media/AppleSDGothicNeoM.ttf": "/react-netflix-hj/static/media/AppleSDGothicNeoM.88c00162a2084f97069c.ttf",
-    "index.html": "/react-netflix-hj/index.html",
-    "main.3f4f2800.css.map": "/react-netflix-hj/static/css/main.3f4f2800.css.map",
-    "main.7181f696.js.map": "/react-netflix-hj/static/js/main.7181f696.js.map",
-    "787.d7112c23.chunk.js.map": "/react-netflix-hj/static/js/787.d7112c23.chunk.js.map"
+    "main.css": "/react-new-netflix/static/css/main.91b71e54.css",
+    "main.js": "/react-new-netflix/static/js/main.e92e3a3b.js",
+    "static/js/787.d7112c23.chunk.js": "/react-new-netflix/static/js/787.d7112c23.chunk.js",
+    "static/media/AppleSDGothicNeoM.ttf": "/react-new-netflix/static/media/AppleSDGothicNeoM.88c00162a2084f97069c.ttf",
+    "index.html": "/react-new-netflix/index.html",
+    "main.91b71e54.css.map": "/react-new-netflix/static/css/main.91b71e54.css.map",
+    "main.e92e3a3b.js.map": "/react-new-netflix/static/js/main.e92e3a3b.js.map",
+    "787.d7112c23.chunk.js.map": "/react-new-netflix/static/js/787.d7112c23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f4f2800.css",
-    "static/js/main.7181f696.js"
+    "static/css/main.91b71e54.css",
+    "static/js/main.e92e3a3b.js"
   ]
 }
